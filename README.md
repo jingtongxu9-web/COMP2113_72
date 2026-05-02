@@ -1,9 +1,9 @@
 # Frozen Spark
 Welcome to **Frozen Spark**, a terminal-based puzzle-platformer. Control two elemental characters through treacherous, procedurally generated or hand-crafted levels using only your terminal. **Don't laugh — you won't make it past the second level either**.
 ## Team Members
-Wu Yingxi 3036662452
-Xu Jingtong 3036669412
-Deng Yuan 3036589973
+Wu Yingxi 3036662452;
+Xu Jingtong 3036669412;
+Deng Yuan 3036589973;
 Liu Jiahe 3036292635
 ## 🎮 Game Description
 In Frozen Spark, you manage two heroes: **FireBoy** and **IceGirl**. Your objective is to navigate both characters to the exit (★) while avoiding elemental hazards.
@@ -56,7 +56,7 @@ This will produce the executable **Frozen Spark**.
 **Execution**
 To launch the game:
 ```Bash```
-```./ssh_ice_fire```
+```./Frozen_Spark```
 **Controls**
 - **WASD / Arrow Keys**: Move the active character.
 - **Tab**: Switch control between FireBoy and IceGirl.
