@@ -49,6 +49,7 @@ This project relies primarily on the **C++ Standard Library**. However, it utili
 -	**ANSI Escape Codes**: Integrated directly into string streams to provide colored graphics and screen clearing without external graphical libraries. 
 ## ⚡ Quick Start
 **Compilation**
+
 The project includes a ```Makefile``` for easy compilation. Open your terminal in the project directory and run:
 ```Bash```
 ```make```
