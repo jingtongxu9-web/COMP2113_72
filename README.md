@@ -53,11 +53,13 @@ The project includes a ```Makefile``` for easy compilation. Open your terminal i
 ```Bash```
 ```make```
 This will produce the executable **Frozen Spark**.
+
 **Execution**
 To launch the game:
 ```Bash```
 ```./Frozen_Spark```
 **Controls**
+
 - **WASD / Arrow Keys**: Move the active character.
 - **Tab**: Switch control between FireBoy and IceGirl.
 - **R**: Restart the current level.
