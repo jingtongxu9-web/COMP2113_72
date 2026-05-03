@@ -55,9 +55,11 @@ The project includes a ```Makefile``` for easy compilation. Open your terminal i
 This will produce the executable **Frozen Spark**.
 
 **Execution**
+
 To launch the game:
 ```Bash```
 ```./Frozen_Spark```
+
 **Controls**
 
 - **WASD / Arrow Keys**: Move the active character.
